@@ -1,5 +1,5 @@
 sceneSetups:
-- path: "Assets/\u30B7\u30FC\u30F3/03_\u7114.unity"
+- path: "Assets/\u30B7\u30FC\u30F3/04_\u96F7.unity"
   isLoaded: 1
   isActive: 1
   isSubScene: 0
